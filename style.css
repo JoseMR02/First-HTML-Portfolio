@@ -23,20 +23,19 @@ nav a {
   color: white;
 }
 
-figure, div{
-  float:left;
-  padding:20px; 
+figure{
+  float:left; 
 }
 
-#me, #welcomeText {
-  text-align:left;
+#me, div {
   padding-top:15px;
-  
+  font-size:130%;
+  text-align: center;
 }
 
 footer {
   clear: left;
-
+  color:rgb(202, 219, 250);
   font-size: 80%;
 }
 
